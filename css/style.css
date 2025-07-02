@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgb(74, 143, 222);
+}
+.navbar ul li a:hover{
+    background-color: rgb(173, 201, 227);
+}
+.navbar ul li a{
+    color: black;
+}
+.main{
+    padding-top: 40px;
+    text-align: center;
+    color: black;
+    
+}
+.carousel-inner{
+}
